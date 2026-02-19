@@ -15,4 +15,9 @@ A fun project dedicated to Punjabi meme culture. This repository contains the so
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
+
    git clone [https://github.com/Ermxxn/punjabi-meme-project.git](https://github.com/Ermxxn/punjabi-meme-project.git)
+
+2.Bash this code snippet before running the python file
+
+    pip install pygame mediapipe opencv-python numpy
